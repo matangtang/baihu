@@ -1,0 +1,1 @@
+include ':mylibrary', ':myapplication', ':myapplication', ':baihugame2', ':myapplication'
